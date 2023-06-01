@@ -8,6 +8,7 @@ import me.afoolslove.metalmaxre.editors.tank.*;
 import me.afoolslove.metalmaxre.utils.DataAddress;
 import org.jetbrains.annotations.Range;
 
+import java.io.OutputStream;
 import java.util.List;
 
 /**

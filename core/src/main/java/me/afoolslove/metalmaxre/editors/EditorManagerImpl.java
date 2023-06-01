@@ -110,7 +110,6 @@ public class EditorManagerImpl implements IEditorManager {
         register(IElevatorEditor.class, ElevatorEditorImpl::new);
         register(ISpriteScriptEditor.class, SpriteScriptEditorImpl::new);
 
-        getEditor(MonsterModelImpl.class).setEnabled(false); // TODO 怪物模型编辑器暂时不进行写入
     }
 
 

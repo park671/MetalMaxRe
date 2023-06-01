@@ -433,7 +433,6 @@ public class ItemEditorImpl extends RomBufferWrapperAbstractEditor implements II
         return tankItems;
     }
 
-    @Override
     public void writeData(OutputStream out) throws IOException {
 //        List<Item> items = getItems();
 //        for (int itemId = 0; ; itemId++) {
@@ -499,7 +498,6 @@ public class ItemEditorImpl extends RomBufferWrapperAbstractEditor implements II
 //        }
     }
 
-    @Override
     public void readData(InputStream in) throws IOException {
 
     }
