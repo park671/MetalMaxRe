@@ -7,7 +7,6 @@ import java.io.IOException;
 
 /**
  * 工具类, 用于读取、写入文件
- * @author Zdream
  *
  */
 public class FileUtils {
