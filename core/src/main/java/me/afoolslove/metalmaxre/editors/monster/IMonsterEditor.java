@@ -258,7 +258,7 @@ public interface IMonsterEditor extends IRomEditor {
     DataAddress getWantedMonsterBountyAddress();
 
     /**
-     * 获取世界地图的怪物领域地址
+     * 获取世界地图的怪物 领域地址
      * <p>
      * 1Byte = 16*16小块 = 256个领域，固定无法变更
      *
